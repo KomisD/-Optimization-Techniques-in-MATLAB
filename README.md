@@ -17,6 +17,6 @@ Usage
 To use these scripts, clone the repository and run the respective .m files in MATLAB. Ensure to adjust initial parameters and starting points as necessary for your specific function.
 
 # Results and Analysis
-Each method is analyzed for efficiency, convergence speed, and ability to avoid local minima. The document includes comprehensive results with graphical representations for each optimization technique under various scenarios.
+Each method is analyzed for efficiency, convergence speed, and ability to avoid local minima. The documendation includes comprehensive results with graphical representations for each optimization technique under various scenarios.
 
 
