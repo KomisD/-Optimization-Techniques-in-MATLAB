@@ -1,7 +1,7 @@
 # Optimization-Techniques-in-MATLAB
 
 ## Overview
-This repository contains MATLAB implementations of three optimization methods for unconstrained minimization of multivariable functions: Steepest Descent, Newton's Method, and the Levenberg-Marquardt Method. Developed by Dimos Kompitselidis (AEM 9985), these algorithms showcase different approaches to minimize functions with varying parameters and initial conditions.
+This repository contains MATLAB implementations of three optimization methods for unconstrained minimization of multivariable functions: Steepest Descent, Newton's Method, and the Levenberg-Marquardt Method. Developed by Dimos Kompitselidis, these algorithms showcase different approaches to minimize functions with varying parameters and initial conditions.
 
 ## Methods
 ### Steepest Descent
